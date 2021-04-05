@@ -1,6 +1,5 @@
 <h1 align="center">
-<img src="https://user-images.githubusercontent.com/16837004/113636481-0d9b6980-9649-11eb-83c0-5d10e30b46fd.png" 
-  alt="Cauê Prado - Full Stack Software Developer" />
+<img src="https://user-images.githubusercontent.com/16837004/113636622-45a2ac80-9649-11eb-975f-242f44eb0ef8.png" alt="Cauê Prado - Full Stack Software Developer" />
 </h1>
 
 <p align="center">
